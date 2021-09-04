@@ -1,4 +1,6 @@
 ## Oi! Eu sou Breno Gondim Rodrigues
+✔ Trabalho com desenvolvimentos de sites Front-End,Back-End e automaçoes com Python.
+✔ Atualmente estou estudando MySql pra banco de dados.
  <div>
   <a href="https://github.com/BrenoGondimR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
