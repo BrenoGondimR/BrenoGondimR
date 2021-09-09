@@ -1,5 +1,5 @@
 ## Oi! Eu sou Breno Gondim Rodrigues
-✔ Trabalho com desenvolvimentos de sites Front-End,Back-End e automaçoes com Python.<br>
+✔ Trabalho com desenvolvimentos de sites Front-End, Back-End e automaçoes com Python.<br>
 ✔ Atualmente estou estudando MySql pra banco de dados.
  <div>
   <a href="https://github.com/BrenoGondimR">
