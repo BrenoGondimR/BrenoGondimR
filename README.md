@@ -19,9 +19,12 @@
 </div>
  
 </div>
+
+📚 Algumas tecnologias que já usei ou estou aprendendo:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Breno-NodeJS" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Breno-Git" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Breno-Vue" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
  
  
