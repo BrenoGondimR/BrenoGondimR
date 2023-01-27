@@ -18,7 +18,7 @@
   
 </div>
 
-📚 Algumas tecnologias que já usei ou estou aprendendo:
+ <p>📚 Algumas tecnologias que já usei ou estou aprendendo:</p>
 <div style="display: flex;"><br>
   <img align="center" alt="Breno-Vue" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
