@@ -17,8 +17,6 @@
   <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
   
 </div>
- 
-</div>
 
 📚 Algumas tecnologias que já usei ou estou aprendendo:
 <div style="display: inline_block"><br>
