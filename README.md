@@ -1,5 +1,5 @@
 ## Oi! Eu sou Breno Gondim Rodrigues
-💼 Function: Dev Full-Stack FixPay Front-End, Back-End e automaçoes com Python.<br>
+💼 Function: Dev Full-Stack.<br>
  <div>
   <a href="https://github.com/BrenoGondimR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -17,6 +17,14 @@
   <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
   
 </div>
+ 
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Breno-NodeJS" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Breno-Git" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+ 
+ 
   
   ##
  
