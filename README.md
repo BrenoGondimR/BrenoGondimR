@@ -17,9 +17,9 @@
   <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
   
 </div>
-
- <p>📚 Algumas tecnologias que já usei ou estou aprendendo:</p>
-<div style="display: flex;"><br>
+ ##
+ 📚 Algumas tecnologias que já usei ou estou aprendendo:
+<div style="display: flex;">
   <img align="center" alt="Breno-Vue" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
