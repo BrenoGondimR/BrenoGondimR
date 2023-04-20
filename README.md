@@ -38,6 +38,11 @@
  <a href="https://discord.gg/r6YUJDTU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:breno-gondim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-gondim-b97707215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+   <div align="center">
+<br><p align="centre">Visitas Ao Perfil<b></b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoGondimR}/count.svg" /> Pessoas.</p> 
+<br></div>
   
  
   <div align="center">
