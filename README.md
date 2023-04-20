@@ -28,7 +28,7 @@
   <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
  
- 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leorlsa&theme=gotham)
   
   ##
  
@@ -43,3 +43,7 @@
    ![Snake animation](https://github.com/BrenoGondimR/BrenoGondimR/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leorlsa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
