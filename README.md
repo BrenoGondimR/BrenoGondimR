@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+21+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Atualmente+estudo+ciências+da+computação+na+Unifor;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+21+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Estudo+Ciências+Da+Computação+na+Unifor;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 💼 Function: Dev Full-Stack.<br>
  <div>
