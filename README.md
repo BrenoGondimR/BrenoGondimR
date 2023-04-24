@@ -41,7 +41,7 @@
  
    <div align="center">
 <br><p align="centre">Visitas Ao Perfil<b></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoGondimR}/count.svg" /> Pessoas.</p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoGondimR}/count.svg" /></p> 
 <br></div>
   
  
