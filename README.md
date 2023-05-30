@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+21+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Estudo+Ciências+Da+Computação+na+Unifor;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
-
 💼 Function: Dev Full-Stack.<br>
 
 ## 📊 GitHub Stats:
@@ -11,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
- ## 📚 Learning technology stack:
+ ## 💻 Tech Stack:
  <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
