@@ -27,8 +27,7 @@
   <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
- 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrenoGondimR&theme=gotham)
+
  
   ##
  
