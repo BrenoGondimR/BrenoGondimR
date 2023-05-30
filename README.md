@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+21+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Estudo+Ciências+Da+Computação+na+Unifor;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-💼 ###Function: Dev Full-Stack.<br>
+💼 ### Function: Dev Full-Stack.<br>
  <div>
   <a href="https://github.com/BrenoGondimR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
  
   <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
  
- 📚 ###Algumas tecnologias que já usei ou estou aprendendo:
+ 📚 ### Algumas tecnologias que já usei ou estou aprendendo:
  <br>
  <br>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
