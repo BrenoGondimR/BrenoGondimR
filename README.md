@@ -23,11 +23,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-  <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
+ <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
  
  ### 📚 Algumas tecnologias que já usei ou estou aprendendo:
  <br>
  <br>
+ 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
