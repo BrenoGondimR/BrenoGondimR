@@ -4,7 +4,7 @@
 
 💼 Function: Dev Full-Stack.<br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
  <div>
   <a href="https://github.com/BrenoGondimR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -23,14 +23,14 @@
   
 </div>
  
- # 📚 Algumas tecnologias que já usei ou estou aprendendo:
+ ## 📚 Algumas tecnologias que já usei ou estou aprendendo:
 <div style="display: flex; margin-bottom: 25px !important;">
   <img align="center" alt="Breno-Vue" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
-  ##
  
+## 🌐 Socials:
 <div> 
   <a href="https://instagram.com/brenoo_gondim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/igdux" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
