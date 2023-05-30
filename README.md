@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+ 
+ ## 📚 Learning technology stack:
  <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,10 +22,9 @@
   <img align="center" alt="Breno-NodeJS" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Breno-Git" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="right" alt="Breno-Logo" height="165" width="165" src="https://avatars.githubusercontent.com/u/79233064?s=400&u=291185ddcf548e6fb9f5aa61d35df5a3bb19b369&v=4">
-  
 </div>
  
- ## 📚 Algumas tecnologias que já usei ou estou aprendendo:
+ ## 📚 Learning technology stack:
 <div style="display: flex; margin-bottom: 25px !important;">
   <img align="center" alt="Breno-Vue" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
