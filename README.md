@@ -21,11 +21,7 @@
 </div>
  
  📚 Algumas tecnologias que já usei ou estou aprendendo:
-<div style="display: flex; margin-bottom: 25px !important;">
- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  <img align="center" alt="Breno-GO" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" alt="Breno-MongoDB" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   
  ##
 <div> 
