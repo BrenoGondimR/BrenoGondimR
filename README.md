@@ -7,9 +7,10 @@
   <a href="https://github.com/BrenoGondimR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&langs_count=7&theme=cobalt"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=BrenoGondimR&theme=cobalt&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
- [![GitHub Streak](https://streak-stats.demolab.com?user=BrenoGondimR&theme=cobalt&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<div style="display: inline_block"><br>
+
+ <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
