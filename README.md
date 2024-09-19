@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+22+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ### 💼 Function: Front-End Developer.<br>
-<div align="left">  
-  <a href="https://github.com/BrenoGondimR">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrenoGondimR&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BrenoGondimR Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<br>
-    
+
+### Sobre mim
+> Sou um desenvolvedor front-end apaixonado por criar interfaces intuitivas e funcionais. Com habilidades em diversas linguagens e frameworks, busco sempre aprender novas tecnologias e enfrentar desafios. Trabalho com foco em performance, acessibilidade e experiência do usuário, além de ter experiência com bancos de dados e ferramentas para otimização do desenvolvimento.
+
 ---
-    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/BrenoGondimR)    
+> [!NOTE]
+> Everything is impossible until it is done!!
+
+---
+
 ### 🚀 Frameworks e Linguagens
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
