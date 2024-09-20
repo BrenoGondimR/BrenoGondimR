@@ -7,14 +7,11 @@
 ### Sobre mim
 > Sou um desenvolvedor front-end apaixonado por criar interfaces intuitivas e funcionais. Com habilidades em diversas linguagens e frameworks, busco sempre aprender novas tecnologias e enfrentar desafios. Trabalho com foco em performance, acessibilidade e experiência do usuário, além de ter experiência com bancos de dados e ferramentas para otimização do desenvolvimento.
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/BrenoGondimR)    
 > [!NOTE]
 > Everything is impossible until it is done!!
 
----
-
-### 🚀 Frameworks e Linguagens
+## 🚀 Frameworks e Linguagens
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,13 +21,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 💾 Bancos de Dados
+## 💾 Bancos de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-### 🛠️ Ferramentas e Outros
+## 🛠️ Ferramentas e Outros
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git Flow](https://img.shields.io/badge/Git_Flow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -39,7 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🌐 Redes Sociais
+## 🌐 Redes Sociais
 
 <div> 
   <a href="https://instagram.com/brenoo_gondim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,11 +46,22 @@
   <a href="https://www.linkedin.com/in/breno-gondim-b97707215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
+##
+
+<details>
+  <summary>💼 <strong>Current Job:</strong> Atualmente trabalhando para uma empresa multinacional</summary>
+
+  **Empresa**: Intelligent Security Systems (ISS)
+
+  **Descrição**: Desenvolvedor Front-End - Responsável pela criação de produtos inovadores, como dashboards interativos e GUIs, para múltiplos centros da empresa em diversos países da LATAM. Responsável pela validação e implementação de interfaces centradas no usuário, utilizando metodologias ágeis para garantir entregas eficientes e alinhadas aos objetivos do negócio. Participação ativa na tomada de decisões estratégicas do time de desenvolvimento, com foco na otimização de ecossistemas de projetos front-end.
+
+  - 👨‍💻 **Cargo**: Front-End Developer
+  - 🛠️ **Tecnologias**: Vue, TypeScript, HTML5, JavaScript, Node.js, Docker, IA.
 
 <div align="center">
 <br><p align="center">Visitas Ao Perfil<b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoGondimR}/count.svg" /></p> 
 <br></div>
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
