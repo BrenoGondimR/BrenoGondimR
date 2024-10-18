@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Breno+Gondim;Tenho+22+anos+de+idade;Moro+no+Brasil,Fortaleza/CE;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-### 💼 Function: Front-End Developer.<br>
+### 💼 Function: Front-End Software Engineer.<br>
 
 ### About me
 > Hello, my name is Breno! I am a developer passionate about innovation and technology, with a career marked by dedication and constant search for new challenges. Since 2019, I have been delving into software development, always with a self-taught approach and focused on excellence.
@@ -53,9 +53,9 @@
 
   **Company**: Intelligent Security Systems (ISS)
 
-  **Description**: Front-End Developer - Responsible for creating innovative products, such as interactive dashboards and GUIs, for multiple company centers in several LATAM countries. Responsible for validating and implementing user-centric interfaces, using agile methodologies to ensure efficient deliveries aligned with business objectives. Active participation in the development team's strategic decision-making, with a focus on optimizing front-end project ecosystems.
+  **Description**: Front-End Software Engineer - Responsible for creating innovative products, such as interactive dashboards and GUIs, for multiple company centers in several LATAM countries. Responsible for validating and implementing user-centric interfaces, using agile methodologies to ensure efficient deliveries aligned with business objectives. Active participation in the development team's strategic decision-making, with a focus on optimizing front-end project ecosystems.
 
-  - 👨‍💻 **Position**: Front-End Developer
+  - 👨‍💻 **Position**: Front-End Software Engineer
   - 🛠️ **Technologies**: Vue, TypeScript, HTML5, JavaScript, Node.js, Docker, IA.
 
 <div align="center">
