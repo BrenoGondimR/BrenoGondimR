@@ -8,7 +8,7 @@
 > Hello, my name is Breno! I am a developer passionate about innovation and technology, with a career marked by dedication and constant search for new challenges. Since 2019, I have been delving into software development, always with a self-taught approach and focused on excellence.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGondimR&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/BrenoGondimR) 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.imgur.com/N9eblkB.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 > [!NOTE]
 > Everything is impossible until it is done!!
