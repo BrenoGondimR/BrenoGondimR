@@ -58,7 +58,7 @@
   **Description**: Front-End Software Engineer - Responsible for creating innovative products, such as interactive dashboards and GUIs, for multiple company centers in several LATAM countries. Responsible for validating and implementing user-centric interfaces, using agile methodologies to ensure efficient deliveries aligned with business objectives. Active participation in the development team's strategic decision-making, with a focus on optimizing front-end project ecosystems.
 
   - 👨‍💻 **Position**: Front-End Software Engineer
-  - 🛠️ **Technologies**: Vue, TypeScript, HTML5, JavaScript, Node.js, Docker, IA.
+  - 🛠️ **Technologies**: Vue, TypeScript, HTML5, JavaScript, Node.js, Docker, AI.
 
 <div align="center">
 <br><p align="center">Profile Visits<b></b></p>  
